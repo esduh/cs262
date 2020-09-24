@@ -1,8 +1,9 @@
+Esther Cha
+9/23/2020
+CS 262 Lab 04
 This lab exercise is based on NetNinja's 
 [Todo application](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) 
 (videos #16-23)
-
-Some of the features have been removed.
 
 Getting this code to run required:
 - Do the upgrades specified in lab 1.
