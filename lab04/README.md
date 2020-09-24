@@ -1,5 +1,7 @@
 Esther Cha
+
 9/23/2020
+
 CS 262 Lab 04
 
 This lab exercise is based on NetNinja's 
