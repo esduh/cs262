@@ -1,8 +1,6 @@
-Esther Cha
+CS 262 - Lab 4 
 
-9/23/2020
-
-CS 262 Lab 04
+This lab is based on: https://cs.calvin.edu/courses/cs/262/kvlinden/04analysis/lab.html
 
 This lab exercise is based on NetNinja's 
 [Todo application](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) 
