@@ -1,0 +1,4 @@
+For this lab, I checked home.js and about.js from my team's project code. 
+I used Prettier to format the the modules. Prettier made the code look more neat with spacing and listing items down the lines rather than next to each other.
+One thing I didn't change is the listing of imported libraries - I preferred to have them listed side by side on one line to save space and have less focus there. 
+For VS Code, I needed to install Prettier to make formatting changes. The services exist but had to be installed. 
